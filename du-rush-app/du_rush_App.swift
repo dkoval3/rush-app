@@ -1,5 +1,5 @@
 //
-//  du_rush_appApp.swift
+//  du_rush_app.swift
 //  du-rush-app
 //
 //  Created by Dane Koval on 12/26/21.
@@ -11,7 +11,7 @@ import SwiftUI
 struct du_rush_appApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoginView()
         }
     }
 }
