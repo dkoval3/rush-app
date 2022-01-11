@@ -14,7 +14,7 @@ class RushDatabaseCalls {
     enum CustomError: Error {
         case invalidURL
         case invalidCredentials
-        case invalidDatat
+        case invalidData
     }
     
     // Use this function to create the request object
